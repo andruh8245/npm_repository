@@ -1,2 +1,3 @@
 # npm_repository
-test npm repository
+Install
+npm install node_example_uvyhmin
