@@ -1,5 +1,10 @@
 # npm_repository
-Install 
-
+INSTALL
 
 npm install node_example_uvyhmin
+
+
+FUNCTION
+
+showMessage() and sum(a,b)
+
